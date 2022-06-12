@@ -1,5 +1,5 @@
 # Welcome!
-Welcome to the Wiki page of **Insane Shops**, where you can find all the information and documentation. You can navigate the wiki using the sidebar on the right.
+Welcome to the Wiki page of **Insane Spawners**, where you can find all the information and documentation. You can navigate the wiki using the sidebar on the right.
 <br>
 
 ## Contact
