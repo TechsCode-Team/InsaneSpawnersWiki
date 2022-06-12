@@ -1,0 +1,68 @@
+{
+  "overview": {
+    "iconType": "fa-solid",
+    "icon":"map",
+    "title":"Overview",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "commands": {
+        "title": "Commands",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "permissions": {
+        "title": "Permissions",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
+  "installation": {
+    "iconType": "fa-solid",
+    "icon":"tasks",
+    "title":"Installation",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "server": {
+        "title":"Server"
+      },
+      "language": {
+        "title":"Language",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
+  "features": {
+    "iconType": "fa-solid",
+    "icon":"info",
+    "title":"Features",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  },
+  "faq": {
+    "iconType": "fa-solid",
+    "icon":"question",
+    "title":"FAQ",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  },
+  "api": {
+    "iconType": "fa-solid",
+    "icon":"code",
+    "title":"API",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  }
+}
